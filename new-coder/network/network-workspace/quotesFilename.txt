@@ -1,0 +1,4 @@
+[talkback]
+quotesFilename = quotes.txt
+triggers = 
+    that's what she said
